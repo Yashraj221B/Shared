@@ -53,7 +53,7 @@ void print_hash(unsigned char *hash, int length) {
  * Main function - yeh toh tumko pata hai coz tum smart ho <3
  */
 int main() {
-    char input[] = "I like someone";
+    char input[] = "Hello from Yashraj221B";
 
     unsigned char hash[SHA256_DIGEST_LENGTH];
 
